@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: MIT
-# Maintainer: Sagar Patil <sagarreddypatil@gmail.com>
+# Maintainer: Sagar Patil <fntneerqqlcngvy@tznvy.pbz>
 
 pkgname=bankstown
 pkgver=1.1.0

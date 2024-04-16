@@ -15,7 +15,7 @@ depends=('lv2' 'git')
 _gitroot="https://github.com/chadmed/bankstown"
 _gitname="${pkgname}-${pkgver}"
 source=("${_gitname}::git+${_gitroot}.git#tag=${pkgver}")
-sha256sums=('SKIP') # Generate this with 'updpkgsums'
+sha256sums=('292ec56b0f8b7f285ac5355eed68533c684a2f3e618cd874f244f8924adac049')
 
 build() {
     cd "${srcdir}/${pkgname}-${pkgver}"
